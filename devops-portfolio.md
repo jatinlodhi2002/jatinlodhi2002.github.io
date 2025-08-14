@@ -230,15 +230,15 @@ Reserved Instances → Spot Instances → Right-sizing Automation
 ## 📞 Contact & Professional Links
 
 ### 📧 Contact Information
-- **Email:** [your.email@example.com]
-- **Phone:** [+1-XXX-XXX-XXXX]
-- **Location:** [City, State/Country]
+- **Email:** jatindevops10@gmail.com
+- **GitHub:** jatinlodhi2002
+- **Location:** India
 
 ### 🔗 Professional Profiles
-- **LinkedIn:** [linkedin.com/in/your-profile]
-- **GitHub:** [github.com/your-username]
-- **Portfolio Website:** [your-portfolio-site.com]
-- **Medium/Blog:** [your-blog-url.com]
+- **LinkedIn:** [https://www.linkedin.com/in/jatin-lodhi/](https://www.linkedin.com/in/jatin-lodhi/)
+- **GitHub:** [https://github.com/jatinlodhi2002](https://github.com/jatinlodhi2002)
+- **Portfolio Website:** https://jatinlodhi2002.github.io
+- **Email:** jatindevops10@gmail.com
 
 ### 🌟 Additional Links
 - **Docker Hub:** [hub.docker.com/u/your-username]

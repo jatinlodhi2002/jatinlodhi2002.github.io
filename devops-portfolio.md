@@ -237,13 +237,8 @@ Reserved Instances → Spot Instances → Right-sizing Automation
 ### 🔗 Professional Profiles
 - **LinkedIn:** [https://www.linkedin.com/in/jatin-lodhi/](https://www.linkedin.com/in/jatin-lodhi/)
 - **GitHub:** [https://github.com/jatinlodhi2002](https://github.com/jatinlodhi2002)
-- **Portfolio Website:** https://jatinlodhi2002.github.io
-- **Email:** jatindevops10@gmail.com
-
-### 🌟 Additional Links
-- **Docker Hub:** [hub.docker.com/u/your-username]
-- **Terraform Registry:** [registry.terraform.io/namespaces/your-username]
-- **Stack Overflow:** [stackoverflow.com/users/your-id]
+- **Portfolio Website:** [https://jatinlodhi2002.github.io](https://jatinlodhi2002.github.io)
+- **Email:** [jatindevops10@gmail.com](mailto:jatindevops10@gmail.com)
 
 ---
 

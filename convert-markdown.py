@@ -297,9 +297,9 @@ def parse_experience(experience_content):
 def extract_contact_info(contact_content):
     """Extract contact information"""
     contact_info = {
-        'email': 'your.email@example.com',
-        'linkedin': 'https://linkedin.com/in/yourprofile',
-        'github': 'https://github.com/yourusername'
+        'email': 'jatindevops10@gmail.com',
+        'linkedin': 'https://www.linkedin.com/in/jatin-lodhi/',
+        'github': 'https://github.com/jatinlodhi2002'
     }
     
     # Extract email
@@ -307,15 +307,15 @@ def extract_contact_info(contact_content):
     if email_match:
         contact_info['email'] = email_match.group()
     
-    # Extract LinkedIn
-    linkedin_match = re.search(r'linkedin\.com/in/[\w-]+', contact_content)
+    # Extract LinkedIn - look for full URL
+    linkedin_match = re.search(r'https://www\.linkedin\.com/in/[\w-]+/?', contact_content)
     if linkedin_match:
-        contact_info['linkedin'] = 'https://' + linkedin_match.group()
+        contact_info['linkedin'] = linkedin_match.group()
     
-    # Extract GitHub
-    github_match = re.search(r'github\.com/[\w-]+', contact_content)
+    # Extract GitHub - look for full URL
+    github_match = re.search(r'https://github\.com/[\w-]+', contact_content)
     if github_match:
-        contact_info['github'] = 'https://' + github_match.group()
+        contact_info['github'] = github_match.group()
     
     return contact_info
 
